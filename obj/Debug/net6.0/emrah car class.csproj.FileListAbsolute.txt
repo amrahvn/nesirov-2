@@ -1,0 +1,15 @@
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\bin\Debug\net6.0\emrah car class.exe
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\bin\Debug\net6.0\emrah car class.deps.json
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\bin\Debug\net6.0\emrah car class.runtimeconfig.json
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\bin\Debug\net6.0\emrah car class.dll
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\bin\Debug\net6.0\emrah car class.pdb
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\obj\Debug\net6.0\emrah car class.csproj.AssemblyReference.cache
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\obj\Debug\net6.0\emrah car class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\obj\Debug\net6.0\emrah car class.AssemblyInfoInputs.cache
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\obj\Debug\net6.0\emrah car class.AssemblyInfo.cs
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\obj\Debug\net6.0\emrah car class.csproj.CoreCompileInputs.cache
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\obj\Debug\net6.0\emrah car class.dll
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\obj\Debug\net6.0\refint\emrah car class.dll
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\obj\Debug\net6.0\emrah car class.pdb
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\obj\Debug\net6.0\emrah car class.genruntimeconfig.cache
+C:\Users\LENOVA\source\repos\emrah car class\emrah car class\obj\Debug\net6.0\ref\emrah car class.dll
